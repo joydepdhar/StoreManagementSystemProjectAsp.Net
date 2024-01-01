@@ -1,0 +1,390 @@
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll.config
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe.config
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.rsp
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe.config
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.rsp
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Managed.Core.targets
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.AppContext.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Collections.Immutable.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Console.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Globalization.Calendars.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Http.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Sockets.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Reflection.Metadata.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.ValueTuple.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XmlDocument.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe.config
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.rsp
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe.config
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.AssemblyReference.cache
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CoreCompileInputs.cache
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CopyComplete
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll.config
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll.config
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.pdb
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe.config
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.rsp
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe.config
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.rsp
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Managed.Core.targets
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.AppContext.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Collections.Immutable.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Console.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Globalization.Calendars.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Http.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Sockets.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Reflection.Metadata.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.ValueTuple.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XmlDocument.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe.config
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.rsp
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe.config
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.pdb
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.pdb
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll.config
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.AssemblyReference.cache
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CoreCompileInputs.cache
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CopyComplete
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll.config
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe.config
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.rsp
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe.config
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.rsp
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Managed.Core.targets
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.AppContext.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Collections.Immutable.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Console.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Globalization.Calendars.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Http.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Sockets.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Reflection.Metadata.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.ValueTuple.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XmlDocument.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe.config
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.rsp
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe.config
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll.config
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.AssemblyReference.cache
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CoreCompileInputs.cache
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CopyComplete
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll.config
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe.config
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.rsp
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe.config
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.rsp
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Managed.Core.targets
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.AppContext.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Collections.Immutable.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Console.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Globalization.Calendars.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Http.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Sockets.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Reflection.Metadata.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.ValueTuple.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XmlDocument.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe.config
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.rsp
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe.config
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll.config
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.AssemblyReference.cache
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CoreCompileInputs.cache
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CopyComplete
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.pdb
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll.config
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\StoreManagementSystemAPI.pdb
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.exe.config
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csc.rsp
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.exe.config
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\csi.rsp
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Managed.Core.targets
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.AppContext.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Collections.Immutable.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Console.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Globalization.Calendars.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Http.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Net.Sockets.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Reflection.Metadata.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.ValueTuple.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XmlDocument.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.exe.config
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\vbc.rsp
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\roslyn\VBCSCompiler.exe.config
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\BusinessLogicLayer.pdb
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\EntityFramework.SqlServer.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Newtonsoft.Json.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Net.Http.Formatting.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\System.Web.Http.WebHost.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\AutoMapper.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.pdb
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\bin\DataAccessLayer.dll.config
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.AssemblyReference.cache
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CoreCompileInputs.cache
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.csproj.CopyComplete
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\StoreManagementSystemAPI\obj\Debug\StoreManagementSystemAPI.pdb

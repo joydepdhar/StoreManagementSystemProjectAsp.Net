@@ -1,0 +1,70 @@
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

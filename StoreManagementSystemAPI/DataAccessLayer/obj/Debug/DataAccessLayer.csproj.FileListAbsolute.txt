@@ -1,0 +1,58 @@
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.intiDB.resources
+H:\10Th Semester\Adv.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.InitDB.resources
+H:\10Th Semester\StoreManage\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initDb.resources
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+H:\10Th Semester\ProjectAsp.Net\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initDb1.resources
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initDb.resources
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initDb1.resources
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+H:\10Th Semester\10Th Semester\Asp.NetFinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
